@@ -1,0 +1,1 @@
+let shoppingList  : (string | number)[]= ['eng', 'milk', '2']
