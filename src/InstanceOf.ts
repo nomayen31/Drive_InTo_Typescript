@@ -47,4 +47,4 @@ const Student1 = new Student("Nomayen Hossain");
 const teacher1 = new Teacher("asdf____ghjkl ");
 const Person1 = new Person("Ohin");
 
-getUserInfo(Person1)
+getUserInfo(Person1) 
